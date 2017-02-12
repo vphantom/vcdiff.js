@@ -1,3 +1,9 @@
+About this fork:
+I needed this module as the basis for my https://github.com/vphantom/rarch
+packing module and the package.json was broken.  I'm keeping this fork alive
+until the original author possibly comes back to GitHub and merges (doesn't
+seem likely).
+
 About
 Implementation of VCDiff (RFC 3284) in Javascript. Can be run on client or 
 server. Current implementation was ported to javascript from 
